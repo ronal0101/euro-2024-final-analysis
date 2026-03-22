@@ -1,5 +1,26 @@
 # euro-2024-final-analysis
 
 ## Source
+*statsbomby package in python*
+- sb.competitions()
+- sb.matches(competition_id = 55, season_id = 282)
+- sb.events(match_id = 3943043)
+
+### libraries used:
+- mplsoccer
+- statsbomby
+- pandas
+- matplotlib
+
+## Insights
+### Passmap of Lamine Yamal
+Lamine Yamal had a total of 37 passes attempts and had an accuracy of 64.% (24/37) passes completed. He tried to create 2 Final Third Passes but failed to convert them both as one was out of bounds and the other was intercepted.
+
+### Bar Chart
+Both Le Normand	and Laporte Spain's Defenders had 80 completed passes while misplacing less than 5 passes and having a pass accuracy of 95% (80/84) and 96% (80/83) respectively.
+
+### Shotmap
+- The 2nd white ball from the top in the Shotmap represents the shot taken by Guehi which was saved by Dani Olmo's ridiculous reaction speed where he headed the ball away by performing a goal line clearance
+<img src="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0715%2Fr1358800_1296x729_16%2D9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg" alt="Dani Olmo saves Spain" width="540" height="360">
 
 <img src="dashboard.png" alt="dashboard" width="2836" height="1400">
