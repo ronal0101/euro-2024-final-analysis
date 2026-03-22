@@ -27,4 +27,4 @@ Lamine Yamal had a total of 37 passes attempts and had an accuracy of 64.% (24/3
 <img src="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0715%2Fr1358800_1296x729_16%2D9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg" alt="Dani Olmo saves Spain" width="540" height="360" title="Dani Olmo saves Spain from conceding">
 
 ### DASHBOARD
-<img src="dashboard.png" alt="dashboard" width="2836" height="1400">
+<img src="Dashboard.png" alt="dashboard" width="2836" height="1400">
