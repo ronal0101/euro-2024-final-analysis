@@ -35,6 +35,9 @@ The bigger the size of the ball, the higher the chance of a goal.
 Blue Balls 🔵 - Shots Lead to a Goal
 White Balls ⚪ - Shots taken that didn't count as a goal
 
+[![MIT License](https://img.shields.io/github/license/tutim-io/tutim)](https://github.com/tutim-io/tutim/blob/main/LICENSE)
+
+
 ### DASHBOARD
 <img src="Dashboard.png" alt="dashboard" width="1875" height="1100">
 
