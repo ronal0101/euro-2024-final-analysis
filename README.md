@@ -1,7 +1,7 @@
 # euro-2024-final-analysis
 
 ## Source
-*statsbomby package in python*
+*statsbombby package in python*
 - sb.competitions()
 - sb.matches(competition_id = 55, season_id = 282)
 - sb.events(match_id = 3943043)
