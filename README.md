@@ -28,8 +28,8 @@ Lamine Yamal had a total of 37 passes attempts and had an accuracy of 64.% (24/3
 [*Source: ESPN*](https://www.espn.in/espn/story/_/id/40564533/euro-2024-moment-day-dani-olmo-last-gasp-goalline-clearance-seals-spain-trophy)
 
 - The 2 biggest white balls you see on Spain's shotmap represents the shots taken by Dani Olmo (below) and Alvaro Morata (top). Both of these shots har a high goal xg which were more than 0.25xg.
-<img src="https://github.com/user-attachments/assets/9745b5bf-bbcc-4e98-a9b2-7562211c2036" alt="Olmo the Goat" width="480" height="360"> 
-<img src="https://github.com/user-attachments/assets/75c22be0-88ad-418d-917c-14c63a47197d" alt="Morata the Goat" width="480" height="360">
+<img src="https://github.com/user-attachments/assets/9745b5bf-bbcc-4e98-a9b2-7562211c2036" alt="Olmo the Goat" width="360" height="240"> 
+<img src="https://github.com/user-attachments/assets/75c22be0-88ad-418d-917c-14c63a47197d" alt="Morata the Goat" width="360" height="240">
 
 [*Source: YouTube - England*](https://youtu.be/lBOS43RWfY0?t=200&si=rBrGME6ydHOjnRK2)
 
