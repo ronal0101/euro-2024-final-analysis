@@ -39,5 +39,5 @@ Lamine Yamal had a total of 37 passes attempts and had an accuracy of 64.% (24/3
 - White Balls ⚪ - Shots taken that didn't count as a goal
 
 ### DASHBOARD
-<img src="Dashboard.png" alt="dashboard" width="1875" height="1100">
+<img src="dashboard.png" alt="dashboard" width="1875" height="1100">
 
