@@ -21,6 +21,11 @@ Lamine Yamal had a total of 37 passes attempts and had an accuracy of 64.% (24/3
 - Ollie Watkins had only 1 pass attempted despite coming on in the 61st minute.
 - Jordan Pickford had the worst passing accuracy which was 61.5% with 16 out 26 passes completed.
 
+#### Jordan Pickford's Passmap
+- Jordan Pickford had a passing accuracy of 61.5% because he hadtried a lot of long balls
+- 50% of his passes were long balls and other 50% were passes in own half
+- He missed 16 long ball passes out of 21 attempts (23% accuracy) but none of his passes in his own half was misplaced
+
 ### Shotmap
 - The 2nd white ball from the top in England's Shotmap represents the shot taken by Marc Guehi which was saved by Dani Olmo's ridiculous reaction speed where he headed the ball away by performing a goal line clearance. The Probability of the goal was 0.5Xg.
 <img src="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0715%2Fr1358800_1296x729_16%2D9.jpg&w=920&h=518&scale=crop&cquality=80&location=origin&format=jpg" alt="Dani Olmo saves Spain" width="540" height="360" title="Dani Olmo saves Spain from conceding">
